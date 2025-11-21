@@ -1,0 +1,5 @@
+{
+  "name": "AutoImage Gen Pro",
+  "description": "A batch image generation tool mimicking desktop automation software, using Gemini AI to convert text prompts from files into images.",
+  "requestFramePermissions": []
+}
